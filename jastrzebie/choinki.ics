@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DIGITAL FACTORY//EVENTS MAKER V1.6.12//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20240111T060000Z
+DTEND:20240111T190000Z
+DTSTAMP:20240307T210749Z
+UID:65ea2ca5240a5
+CATEGORIES:Odbiór choinek
+LOCATION:Chojnów tylko ul. Leśników, Chylice, Jastrzębie, Chylice-Pólko, Siedliska, Żabieniec z wyjątkiem ul. Rybakówka i Rzekotki Chojnów tylko ul. Leśników, Mazowieckie, PL
+ORGANIZER;CN=WGO Gminy Piaseczno:MAILTO:go@piaseczno.eu
+DESCRIPTION: Odbiór odpadów 
+URL;VALUE=URI:https://odpady.piaseczno.eu/harmonogram-odbioru-odpadow/odbior/chylice-polko-siedliska-choinki/
+SUMMARY:Chojnów tylko ul. Leśników\, Chylice\, Jastrzębie\, Chylice-Pólko\, Siedliska\, Żabieniec z wyjątkiem ul. Rybakówka i Rzekotki - Choinki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240208T060000Z
+DTEND:20240208T190000Z
+DTSTAMP:20240307T210749Z
+UID:65ea2ca52411a
+CATEGORIES:Odbiór choinek
+LOCATION:Chojnów tylko ul. Leśników, Chylice, Jastrzębie, Chylice-Pólko, Siedliska, Żabieniec z wyjątkiem ul. Rybakówka i Rzekotki Chojnów tylko ul. Leśników, Mazowieckie, PL
+ORGANIZER;CN=WGO Gminy Piaseczno:MAILTO:go@piaseczno.eu
+DESCRIPTION: Odbiór odpadów 
+URL;VALUE=URI:https://odpady.piaseczno.eu/harmonogram-odbioru-odpadow/odbior/chylice-polko-siedliska-choinki/
+SUMMARY:Chojnów tylko ul. Leśników\, Chylice\, Jastrzębie\, Chylice-Pólko\, Siedliska\, Żabieniec z wyjątkiem ul. Rybakówka i Rzekotki - Choinki
+END:VEVENT
+END:VCALENDAR
